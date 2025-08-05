@@ -25,9 +25,11 @@ To develop a comprehensive credit card weekly dashboard that provides real time 
 •	Importing a  CSV file into SQL
 
 ## DAX 
-Two calculated columns are created in the credit_card_detail Table
+Calculated columns 
 <br>
 
+Two calculated columns are created in the credit_card_detail Table
+<br>
 •	Revenue: annual_fees + total_trans_amt + interest_earned
 <br>
 •	Week_num2: using weeknum function – date[week_start_date]
@@ -38,6 +40,42 @@ Using Switch() function two calculated columns are created in the customer_detai
 •	a) Age_group – the ages are kept in a bucket 
 <br>
 •	b) Income_group – incomes are kept in a bucket
+
+Measures:
+<br>
+•	Current_customer_count
+<br>
+•	Current_transaction_amount
+<br>
+•	Current_transaction_count
+<br>
+•	Current_week_revenue
+<br>
+•	Previous_customer_count
+<br>
+•	Previous_transaction_amount
+<br>
+•	Previous_transaction_count
+<br>
+•	Previous_week_revenue
+<br>
+•	WoW_customer_count
+<br>
+•	WoW_revenue
+<br>
+•	WoW_transaction_amt
+<br>
+•	WoW_transaction_count
+
+<img width="909" height="498" alt="Screenshot 2025-08-05 094743" src="https://github.com/user-attachments/assets/b1519b14-a8f9-4daa-ae9d-22468effa4a4" />
+
+## Dashboard 
+An interactive dashboard is created
+
+
+
+
+
 
 
 
@@ -93,8 +131,6 @@ Week on Week changes
 •	Overall delinquent rate is 6.06%
 
 
-
-<img width="909" height="498" alt="Screenshot 2025-08-05 094743" src="https://github.com/user-attachments/assets/b1519b14-a8f9-4daa-ae9d-22468effa4a4" />
 
 
 
