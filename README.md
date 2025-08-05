@@ -70,7 +70,7 @@ Measures:
 <img width="909" height="498" alt="Screenshot 2025-08-05 094743" src="https://github.com/user-attachments/assets/b1519b14-a8f9-4daa-ae9d-22468effa4a4" />
 
 ## Dashboard 
-<a href ="https://github.com/rinasingh1/Credit_Card_Analysis_Report/blob/main/Credit%20Card%20Analysis.pdf">View Credit Card Analysis Report</a>
+
 ## Project Insights
 
 Week on Week changes
