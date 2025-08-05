@@ -20,9 +20,9 @@ To develop a comprehensive credit card weekly dashboard that provides real time 
 <br>
 •	creating tables in SQL
 <br>
-•	preparing a CSV file
+•	preparing the CSV files
 <br>
-•	Importing a  CSV file into SQL
+•	Importing the CSV files into SQL
 
 ## DAX 
 Calculated columns 
