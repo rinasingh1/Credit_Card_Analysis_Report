@@ -8,8 +8,6 @@ Power BI
 <br>
 •	 Data from SQL
 <br>
-•	 Data Processing
-<br>
 •	 Dax
 <br>
 •	 Dashboard
@@ -26,10 +24,52 @@ To develop a comprehensive credit card weekly dashboard that provides real time 
 <br>
 •	Importing a  CSV file into SQL
 
-## Project Insights
+## DAX 
+Two calculated columns are created in the credit_card_detail Table
 <br>
+
+•	Revenue: annual_fees + total_trans_amt + interest_earned
+<br>
+•	Week_num2: using weeknum function – date[week_start_date]
+<br>
+
+Using Switch() function two calculated columns are created in the customer_detail Table
+<br>
+•	a) Age_group – the ages are kept in a bucket 
+<br>
+•	b) Income_group – incomes are kept in a bucket
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Project Insights
+
 Week on Week changes
 <br>
+
 •	Revenue increased by 28.8%
 <br>
 •	Total transaction amt and count increased by 35.04% and 3.39%
