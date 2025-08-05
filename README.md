@@ -67,6 +67,8 @@ Measures:
 <br>
 •	WoW_transaction_count
 
+## KPI's
+
 <img width="909" height="498" alt="Screenshot 2025-08-05 094743" src="https://github.com/user-attachments/assets/b1519b14-a8f9-4daa-ae9d-22468effa4a4" />
 
 ## Dashboard 
