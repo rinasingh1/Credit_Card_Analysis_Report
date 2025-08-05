@@ -44,9 +44,16 @@ Week on Week changes
 •	Male customers are contributing more to revenue that is 31M than female customers that is 26M
 <br>
 •	Blue and Silver credit cards are contributing 93% of overall transactions.
+<br>
+•	TX, NY and CA contributing to 73.05%
+<br>
+•	Overall activation rate is 56.3%
+<br>
+•	Overall delinquent rate is 6.06%
 
-<img width="2000" height="1156" alt="image" src="https://github.com/user-attachments/assets/5a984a96-45d3-4cee-b4cb-ea7b1dee2119" />
 
+
+<img width="909" height="498" alt="Screenshot 2025-08-05 094743" src="https://github.com/user-attachments/assets/b1519b14-a8f9-4daa-ae9d-22468effa4a4" />
 
 
 
