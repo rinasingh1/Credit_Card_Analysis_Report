@@ -3,7 +3,8 @@ Power BI
 ## Credit Card Weekly Status Report
 ## Content
 <br>
-Project Objective
+
+•	Project Objective
 <br>
 •	 Data from SQL
 <br>
